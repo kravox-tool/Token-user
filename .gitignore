@@ -1,0 +1,58 @@
+# Archivos del sistema
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Directorios de IDE y editores
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+
+# Directorios del sistema de archivos
+node_modules/
+dist/
+build/
+out/
+
+# Archivos de logs
+*.log
+logs/
+*.pid
+*.pid.lock
+
+# Archivos temporales
+*.tmp
+*.temp
+tmp/
+temp/
+
+# Archivos de configuración personal
+config.local.sh
+.env
+.env.local
+
+# Archivos de backup
+*.bak
+*.backup
+*.old
+*.swp
+
+# Caché
+.cache/
+__pycache__/
+
+# Archivos de prueba
+test-results/
+coverage/
